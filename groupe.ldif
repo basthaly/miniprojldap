@@ -1,0 +1,58 @@
+dn: cn=TPA1,ou=TDA,ou=groups,dc=iutbeziers,dc=fr
+objectClass: groupOfNames
+member: uid=dimannaix, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=samaubertin, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=alebouthinon, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=renchmura, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=julgaillardet, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=thigargaros, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=gregrevin, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=guilivernaux, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=thomanfredi, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=aurpartonnaud, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=vicpezieres, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=natponcelet, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+
+dn: cn=TPA2,ou=TDA,ou=groups,dc=iutbeziers,dc=fr
+objectClass: groupOfNames
+member: uid=aouandhume, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=matbonnafous, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=zakdaoudi, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=oligomez, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=syllair, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=seblozano, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=chembengue, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=chendiaye, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=khandiaye, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=arnranza, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=frerogandji, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=ludtanneur, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+
+dn: cn=TPB1,ou=TDB,ou=groups,dc=iutbeziers,dc=fr
+objectClass: groupOfNames
+member: uid=khaathie, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=etidruart, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=erigodard, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=valhebert, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=alejaeg, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=gaulannette, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=rubmarguerite, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=antmignon, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=ogandzamba, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=maxpouvreau, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=guiroubaud, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=matvilleneuve, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+
+dn: cn=TPB2,ou=TDB,ou=groups,dc=iutbeziers,dc=fr
+objectClass: groupOfNames
+member: uid=bencabanes, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=walelmaazi, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=benjacquemond, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=samkorchi, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=anamatrah, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=marorsucci, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=wisrahmouni, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=bassauvan, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=nicsicre, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=ndethioune, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
+member: uid=ndithioune, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
