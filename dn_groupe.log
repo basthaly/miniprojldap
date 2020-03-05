@@ -1,0 +1,135 @@
+dn: ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=alejaeg,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=syllair,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=arnranza,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=khaathie,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=nicsicre,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=oligomez,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=anamatrah,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=antmignon,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=bassauvan,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=chendiaye,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=dimannaix,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=erigodard,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=etidruart,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=gregrevin,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=khandiaye,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=renchmura,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=samkorchi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=seblozano,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=valhebert,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=zakdaoudi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=aouandhume,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=bencabanes,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=chembengue,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=guiroubaud,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=ludtanneur,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=marorsucci,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=ndethioune,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=ndithioune,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=ogandzamba,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=walelmaazi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=alebouthino,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=aurpartonna,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=benjacquemo,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=frerogandji,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=gaulannette,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=guilivernau,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=julgaillard,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=matbonnafou,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=matvilleneu,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=maxpouvreau,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=natponcelet,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=rubmargueri,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+
+dn: uid=samaubertin,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=thigargaros,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=thomanfredi,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=vicpezieres,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+
+dn: uid=wisrahmouni,ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+memberOf: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+

@@ -1,4 +1,4 @@
-dn: cn=TPA1,ou=TDA,ou=groups,dc=iutbeziers,dc=fr
+dn: cn=TPA1,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
 objectClass: groupOfNames
 member: uid=dimannaix, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=samaubertin, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
@@ -13,7 +13,7 @@ member: uid=aurpartonnaud, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr
 member: uid=vicpezieres, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=natponcelet, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 
-dn: cn=TPA2,ou=TDA,ou=groups,dc=iutbeziers,dc=fr
+dn: cn=TPA2,ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
 objectClass: groupOfNames
 member: uid=aouandhume, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=matbonnafous, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
@@ -28,7 +28,7 @@ member: uid=arnranza, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr
 member: uid=frerogandji, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=ludtanneur, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 
-dn: cn=TPB1,ou=TDB,ou=groups,dc=iutbeziers,dc=fr
+dn: cn=TPB1,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
 objectClass: groupOfNames
 member: uid=khaathie, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=etidruart, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
@@ -43,7 +43,7 @@ member: uid=maxpouvreau, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr
 member: uid=guiroubaud, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=matvilleneuve, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 
-dn: cn=TPB2,ou=TDB,ou=groups,dc=iutbeziers,dc=fr
+dn: cn=TPB2,ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
 objectClass: groupOfNames
 member: uid=bencabanes, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
 member: uid=walelmaazi, ou=etudiants, ou=personnes, dc=iutbeziers, dc=fr 
