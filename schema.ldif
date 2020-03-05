@@ -1,0 +1,32 @@
+dn: ou=groups,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: groups
+description: Branche Groupes
+
+dn: ou=personnes,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: personnes
+description: Groupes de personnes
+
+dn: ou=etudiants,ou=personnes,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: etudiants
+description: Groupes d'etudiant
+
+dn: ou=TD,ou=groups,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: TDdescription: Groupes de TDs
+
+dn: ou=TDA,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: TDAdescription: Groupe de TD A
+
+dn: ou=TDB,ou=TD,ou=groups,dc=iutbeziers,dc=fr
+objectClass: top
+objectClass: organizationalunit
+ou: TDBdescription: Groupe de TD B
